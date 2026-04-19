@@ -1,0 +1,18 @@
+FONT — ALLA SERRA
+
+Scarica i font da:
+https://drive.google.com/drive/folders/1dp582k1htR7v7LBBlOj_sykXxknfZ5Xq
+
+Metti i file QUI dentro (cartella fonts/) con questi NOMI ESATTI:
+
+  BlackMango-Regular.otf   (o .ttf / .woff2 / .woff)
+  BlackMango-Bold.otf
+  BlackMango-Thin.otf
+  BeautifullyDelicious-Regular.otf
+  BeautifullyDelicious-Bold.otf
+  BeautifullyDelicious-Thin.otf
+
+Se il file dal Drive ha un nome diverso (es. "Black Mango Regular.otf"),
+rinominalo togliendo gli spazi e aggiungendo il trattino come sopra.
+
+Finché i font non sono qui, il sito usa fallback serif (Fraunces / Cormorant).
